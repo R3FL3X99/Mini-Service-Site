@@ -1,0 +1,47 @@
+body{
+    background-color: aliceblue;
+}
+
+#header{
+    background-color: indianred;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: red;
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+
+#article{
+    background-color: slategray;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: dimgray;
+    float: left;
+}
+#article2{
+    background-color: slategray;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: dimgray;
+    float: right;
+    padding: 50px;
+    
+}
+
+#section{
+    background-color: lightskyblue;
+    padding: 1px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: medium;
+    border-color: blue;
+}
